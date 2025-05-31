@@ -1,4 +1,4 @@
-# pubsub
+# pubsub :potable_water:
 pubsub: #pub/sub #topic. #messageBroker #subscription #event-driven #avro
 
 ## In Progress...
